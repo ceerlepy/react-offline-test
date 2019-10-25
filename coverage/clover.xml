@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1572013027305" clover="3.2.0">
+  <project timestamp="1572013027305" name="All files">
+    <metrics statements="24" coveredstatements="24" conditionals="13" coveredconditionals="13" methods="8" coveredmethods="8" elements="45" coveredelements="45" complexity="0" loc="24" ncloc="24" packages="2" files="5" classes="5"/>
+    <package name="components">
+      <metrics statements="17" coveredstatements="17" conditionals="13" coveredconditionals="13" methods="4" coveredmethods="4"/>
+      <file name="GenerationMix.js" path="/Users/veyselmac/Desktop/react-offline-test/src/components/GenerationMix.js">
+        <metrics statements="5" coveredstatements="5" conditionals="5" coveredconditionals="5" methods="1" coveredmethods="1"/>
+        <line num="4" count="4" type="stmt"/>
+        <line num="5" count="15" type="cond" truecount="5" falsecount="0"/>
+        <line num="6" count="10" type="stmt"/>
+        <line num="13" count="5" type="stmt"/>
+        <line num="21" count="4" type="stmt"/>
+      </file>
+      <file name="GenerationMixTable.js" path="/Users/veyselmac/Desktop/react-offline-test/src/components/GenerationMixTable.js">
+        <metrics statements="7" coveredstatements="7" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="9" count="3" type="stmt"/>
+        <line num="12" count="15" type="cond" truecount="4" falsecount="0"/>
+        <line num="13" count="3" type="stmt"/>
+        <line num="14" count="3" type="stmt"/>
+        <line num="17" count="12" type="stmt"/>
+        <line num="20" count="15" type="stmt"/>
+      </file>
+      <file name="Header.js" path="/Users/veyselmac/Desktop/react-offline-test/src/components/Header.js">
+        <metrics statements="5" coveredstatements="5" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="6" count="14" type="cond" truecount="2" falsecount="0"/>
+        <line num="7" count="14" type="cond" truecount="2" falsecount="0"/>
+        <line num="8" count="14" type="stmt"/>
+        <line num="19" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="containers">
+      <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+      <file name="App.js" path="/Users/veyselmac/Desktop/react-offline-test/src/containers/App.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+      </file>
+      <file name="UkEnergyMix.js" path="/Users/veyselmac/Desktop/react-offline-test/src/containers/UkEnergyMix.js">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="8" count="5" type="stmt"/>
+        <line num="9" count="5" type="stmt"/>
+        <line num="16" count="8" type="stmt"/>
+        <line num="17" count="8" type="stmt"/>
+        <line num="24" count="13" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
